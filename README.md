@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Django, Django Restframework, webscraping and webdevelopment, looking for my first job in related position.
 - 🌱 I’m currently learning frameworks related to Python with main focus on Beautifulsoup, selenium, Django and pure Python.
 - 💞️ I’m looking to collaborate on open-source projects.
-- 📫 How to reach me mathewczaja@gmail.com
+- 📫 Reach me at mathewcz92@gmail.com
 
 <!---
 mateuszone/mateuszone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
