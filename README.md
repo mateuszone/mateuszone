@@ -24,8 +24,6 @@ Skills: PYTHON, DJANGO, SQL AND BASICS OF JS AND REACT
 - ⚡ Fun fact: Basketball player, 200 cm tall ;)  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mateuszone)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.czaja.dev)  
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuszone&show_icons=true)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mateuszone)](https://github.com/ryo-ma/github-profile-trophy)
