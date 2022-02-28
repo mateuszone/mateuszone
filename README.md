@@ -2,10 +2,10 @@
 #### Python is my love for a lifetime <3
 ![Python is my love for a lifetime <3](https://i.ibb.co/GQFKs58/Blue-Modern-Corporate-Computer-and-Technology-Linkedin-Banner-5.png)
 
-#### CURRENT PROJECT
+## CURRENT PROJECT
 Currenly I'm working as a Devops in a automotive industry. I primarly write automation scripts in Python and batch/bash which i then deploy on jenkins server.
 
-#### EXPERIENCES
+## EXPERIENCES
 I have about 1-year experience as a Software Engineer and additional 1 year as an IT junior.
 
 
@@ -15,7 +15,20 @@ Looking for an opportunity to be challenged and learn every day !;)
 
 PS Every django-related proposal fires my imagination !!!!
 
-Skills: PYTHON, DJANGO, SQL, GIT AND BASICS OF UBUNTU, JS, REACT, BATCH/BASH, DOCKER.
+## Skills: 
+- PYTHON, 
+- DJANGO, 
+- SQL, 
+- GIT,
+- PTC INTEGRITY
+
+## BASICS SKILLS
+- UBUNTU, 
+- JENKINS,
+- JS, 
+- REACT, 
+- BATCH/BASH, 
+- DOCKER.
 
 - 🔭 I’m currently working on My portofolio app. 
 - 🌱 I’m currently learning Python, Django and Devops 
