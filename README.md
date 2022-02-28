@@ -2,14 +2,14 @@
 #### Python is my love for a lifetime <3
 ![Python is my love for a lifetime <3](https://i.ibb.co/GQFKs58/Blue-Modern-Corporate-Computer-and-Technology-Linkedin-Banner-5.png)
 
-CURRENT PROJECT
+#### CURRENT PROJECT
 Currenly I'm working as a Devops in a automotive industry. I primarly write automation scripts in Python and batch/bash which i then deploy on jenkins server.
 
-EXPERIENCES
- I have about 1-year experience as a Software Engineer and additional 1 year as an IT junior.
+#### EXPERIENCES
+I have about 1-year experience as a Software Engineer and additional 1 year as an IT junior.
 
 
-EXPECTATIONS
+#### EXPECTATIONS
 Excited to grow my skills in App development and R&D technologies.
 Looking for an opportunity to be challenged and learn every day !;)
 
