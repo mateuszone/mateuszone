@@ -15,7 +15,7 @@ Looking for an opportunity to be challenged and learn every day !;)
 
 PS Every django-related proposal fires my imagination !!!!
 
-Skills: PYTHON, DJANGO, SQL AND BASICS OF JS AND REACT
+Skills: PYTHON, DJANGO, SQL, GIT AND BASICS OF UBUNTU, JS, REACT, BATCH/BASH, DOCKER.
 
 - 🔭 I’m currently working on My portofolio app. 
 - 🌱 I’m currently learning Python, Django and Devops 
