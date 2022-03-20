@@ -1,5 +1,7 @@
 ### Hi there 👋,  my name is Mateusz.
-#### Software Developer with main focus on Python. If you want to contact me please website www.czaja.dev and feel free to contact me via form.
+#### Software Developer with main focus on Python. 
+#### If you want to contact me please website www.czaja.dev
+###### Feel free to contact me via form.
 ![Python is my love for a lifetime <3](https://i.ibb.co/GQFKs58/Blue-Modern-Corporate-Computer-and-Technology-Linkedin-Banner-5.png)
 
 ## CURRENT PROJECT
