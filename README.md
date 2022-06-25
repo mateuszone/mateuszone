@@ -9,19 +9,19 @@ Currenly I'm working as a Software Engineer in a automotive industry. On my dail
 
 
 ## SOME LIVE PROJECTS
-#### Apps are mainly deployed on a free dyno and might take few seconds before they run.
+##### Apps are mainly deployed on a free dyno and might take few seconds before they run.
 
 https://filmwebscrapping.herokuapp.com/
-#### App for movie fans, you can see upcoming premieres, rate movies and write your own review.
-##### STACK: #PYTHON, #DJANGO, #POSTGRES, #CLOUDINARY, #BOOTSTRAP
-##### CREDENTIALS = { "login": "admin", "pass" : "root1234" }
+##### App for movie fans, you can see upcoming premieres, rate movies and write your own review.
+###### STACK: #PYTHON, #DJANGO, #POSTGRES, #CLOUDINARY, #BOOTSTRAP
+###### CREDENTIALS = { "login": "admin", "pass" : "root1234" }
 
 https://mateusz-website.herokuapp.com/
 
 https://mateuszblog.herokuapp.com/
-#### My first app written with Flask and SQLALCHEMY in learning purpose.
-##### STACK: #PYTHON, #FLASK, #POSTGRES, #SQLALCHEMY, #JAVASCRIPT, #BOOTSTRAP
-##### CREDENTIALS = {"login" : "root@root.com", "pass" : "root" }
+##### My first app written with Flask and SQLALCHEMY in learning purpose.
+###### STACK: #PYTHON, #FLASK, #POSTGRES, #SQLALCHEMY, #JAVASCRIPT, #BOOTSTRAP
+###### CREDENTIALS = {"login" : "root@root.com", "pass" : "root" }
 
 
 ## EXPERIENCES
