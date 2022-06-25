@@ -5,7 +5,7 @@
 
 
 ## CURRENT WORK/PROJECT
-Currenly I'm working as a Software Engineer in a automotive industry. On my daily basis I develop Python library for internal usage and contribute to software written in Django DRF. Previously I used to write automation scripts in Python and batch/bash which i then deploy on jenkins server.
+Currenly I'm working as a Software Engineer in a automotive industry. On my daily basis I develop Python library for internal usage and contribute to software written in Django DRF. Previously I used to write automation scripts in Python and batch/bash which was deployed on jenkins server.
 
 
 ## SOME LIVE PROJECTS
@@ -32,7 +32,7 @@ Currenly I'm working as a Software Engineer in a automotive industry. On my dail
 
 
 ## EXPERIENCES
-I have 1-year experience as a Software Engineer/Developer and additional 1 year as an IT junior.
+I have 1-year experience as a Software Engineer/Developer and additional 1 year as an IT junior. Additionaly I have 2 years of experience as a Analyst in companies like Credit-Suisse, UBS, Energizer (in a main distributor Company to traditional market). I'm also experienced in writting raw SQL queries and EXCEL automation, entering programming industry was the next natural step in my personal development.
 
 
 ## EXPECTATIONS
@@ -47,7 +47,8 @@ Looking for an opportunity to be challenged and learn every day !;)
 - SQL, 
 - GIT,
 - DOCKER,
-- PTC INTEGRITY
+- PTC INTEGRITY,
+- FLUENT ENGLISH ( COMPLETED LANGUAGE COURSE IN USA,MIAMI and more )
 
 ## BASICS SKILLS
 - UBUNTU, 
