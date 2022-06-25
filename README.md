@@ -21,14 +21,14 @@ Currenly I'm working as a Software Engineer in a automotive industry. On my dail
 ### 2.URL: https://mateusz-website.herokuapp.com/
 
 #### Description
-##### First version of my personal website/portofolio app.
+##### " First version of my personal website/portofolio app. "
 
 ### 3.URL: https://mateuszblog.herokuapp.com/
 
 #### Description
-##### My first app written with Flask and SQLALCHEMY in learning purpose.
+##### " My first app written with Flask and SQLALCHEMY in learning purpose. "
 ###### STACK: #PYTHON, #FLASK, #POSTGRES, #SQLALCHEMY, #JAVASCRIPT, #BOOTSTRAP
-###### CREDENTIALS = {"login" : "root@root.com", "pass" : "root" }
+###### CREDENTIALS = `{"login" : "root@root.com", "pass" : "root" }`
 
 
 ## EXPERIENCES
