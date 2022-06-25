@@ -14,9 +14,9 @@ Currenly I'm working as a Software Engineer in a automotive industry. On my dail
 ### 1.URL: https://filmwebscrapping.herokuapp.com/
 
 #### Description
-##### App for movie fans, you can see upcoming premieres, rate movies and write your own review.
+##### " App for movie fans, you can see upcoming premieres, rate movies and write your own review. "
 ###### STACK: #PYTHON, #DJANGO, #POSTGRES, #CLOUDINARY, #BOOTSTRAP
-###### CREDENTIALS = { "login": "admin", "pass" : "root1234" }
+###### CREDENTIALS = ``` { "login": "admin", "pass" : "root1234" } ```
 
 ### 2.URL: https://mateusz-website.herokuapp.com/
 
