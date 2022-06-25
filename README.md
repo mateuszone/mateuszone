@@ -9,34 +9,26 @@ Currenly I'm working as a Software Engineer in a automotive industry. On my dail
 
 
 ## SOME LIVE PROJECTS
-ps: Apps are mainly deployed on a free dyno and might take few seconds before they run.
+#### Apps are mainly deployed on a free dyno and might take few seconds before they run.
 
 https://filmwebscrapping.herokuapp.com/
-
-STACK: #PYTHON, #DJANGO, #POSTGRES, #CLOUDINARY, #BOOTSTRAP
-
-CREDENTIALS = {
-  "login": "admin"
-  "pass" : "root1234"
-}
+#### App for movie fans, you can see upcoming premieres, rate movies and write your own review.
+##### STACK: #PYTHON, #DJANGO, #POSTGRES, #CLOUDINARY, #BOOTSTRAP
+##### CREDENTIALS = { "login": "admin", "pass" : "root1234" }
 
 https://mateusz-website.herokuapp.com/
 
 https://mateuszblog.herokuapp.com/
-
-STACK: #PYTHON, #FLASK, #POSTGRES, #JAVASCRIPT, #BOOTSTRAP
-
-CREDENTIALS = {
-  "login": "root@root.com"
-  "pass" : "root"
-}
+#### My first app written with Flask and SQLALCHEMY in learning purpose.
+##### STACK: #PYTHON, #FLASK, #POSTGRES, #SQLALCHEMY, #JAVASCRIPT, #BOOTSTRAP
+##### CREDENTIALS = {"login" : "root@root.com", "pass" : "root" }
 
 
 ## EXPERIENCES
 I have 1-year experience as a Software Engineer/Developer and additional 1 year as an IT junior.
 
 
-#### EXPECTATIONS
+## EXPECTATIONS
 Excited to grow my skills in Software Development and R&D technologies.
 Looking for an opportunity to be challenged and learn every day !;)
 
