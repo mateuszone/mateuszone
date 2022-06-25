@@ -3,24 +3,44 @@
 #### My-website: www.czaja.dev - feel free to contact me via form.
 ![Python is my love for a lifetime <3](https://i.ibb.co/GQFKs58/Blue-Modern-Corporate-Computer-and-Technology-Linkedin-Banner-5.png)
 
-## CURRENT PROJECT
-Currenly I'm working as a Devops in a automotive industry. I primarly write automation scripts in Python and batch/bash which i then deploy on jenkins server.
+## CURRENT WORK/PROJECT
+Currenly I'm working as a Software Engineer in a automotive industry. On my daily basis I develop Python library for internal usage and contribute to software written in Django DRF. Previously I used to write automation scripts in Python and batch/bash which i then deploy on jenkins server.
+
+## SOME LIVE PROJECTS
+Please be patient because apps are mainly deployed on a free dyno and might take few seconds before they run.
+
+https://filmwebscrapping.herokuapp.com/ 
+STACK: #PYTHON, #DJANGO, #POSTGRES, #CLOUDINARY, #BOOTSTRAP
+CREDENTIALS = {
+  "login": "admin"
+  "pass" : "root1234"
+}
+
+https://mateusz-website.herokuapp.com/
+https://mateuszblog.herokuapp.com/
+STACK: #PYTHON, #FLASK, #POSTGRES, #JAVASCRIPT, #BOOTSTRAP
+CREDENTIALS = {
+  "login": "root@root.com"
+  "pass" : "root"
+}
+
 
 ## EXPERIENCES
-I have about 1-year experience as a Software Engineer and additional 1 year as an IT junior.
+I have 1-year experience as a Software Engineer/Developer and additional 1 year as an IT junior.
 
 
 #### EXPECTATIONS
-Excited to grow my skills in App development and R&D technologies.
+Excited to grow my skills in Software Development and R&D technologies.
 Looking for an opportunity to be challenged and learn every day !;)
 
-PS Every django-related proposal fires my imagination !!!!
 
 ## Skills: 
 - PYTHON, 
-- DJANGO, 
+- DJANGO,
+- FLASK, 
 - SQL, 
 - GIT,
+- DOCKER,
 - PTC INTEGRITY
 
 ## BASICS SKILLS
@@ -28,13 +48,12 @@ PS Every django-related proposal fires my imagination !!!!
 - JENKINS,
 - JS, 
 - REACT, 
-- BATCH/BASH, 
-- DOCKER.
+- BATCH/BASH
 
-- 🔭 I’m currently working on My portofolio app. 
+- 🔭 I’m currently working on My portofolio app and Allegro analytics tool with a subscription system.
 - 🌱 I’m currently learning Python, Django and Devops 
 - 🤔 I’m looking for help with Aws 
-- 💬 Ask me about My fav automation tools 
+- 💬 Ask me about My fav public cloud provider
 - ⚡ Fun fact: Basketball player, 200 cm tall ;)  
 
 
