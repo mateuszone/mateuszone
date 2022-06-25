@@ -3,22 +3,29 @@
 #### My-website: www.czaja.dev - feel free to contact me via form.
 ![Python is my love for a lifetime <3](https://i.ibb.co/GQFKs58/Blue-Modern-Corporate-Computer-and-Technology-Linkedin-Banner-5.png)
 
+
 ## CURRENT WORK/PROJECT
 Currenly I'm working as a Software Engineer in a automotive industry. On my daily basis I develop Python library for internal usage and contribute to software written in Django DRF. Previously I used to write automation scripts in Python and batch/bash which i then deploy on jenkins server.
 
-## SOME LIVE PROJECTS
-Please be patient because apps are mainly deployed on a free dyno and might take few seconds before they run.
 
-https://filmwebscrapping.herokuapp.com/ 
+## SOME LIVE PROJECTS
+ps: Apps are mainly deployed on a free dyno and might take few seconds before they run.
+
+https://filmwebscrapping.herokuapp.com/
+
 STACK: #PYTHON, #DJANGO, #POSTGRES, #CLOUDINARY, #BOOTSTRAP
+
 CREDENTIALS = {
   "login": "admin"
   "pass" : "root1234"
 }
 
 https://mateusz-website.herokuapp.com/
+
 https://mateuszblog.herokuapp.com/
+
 STACK: #PYTHON, #FLASK, #POSTGRES, #JAVASCRIPT, #BOOTSTRAP
+
 CREDENTIALS = {
   "login": "root@root.com"
   "pass" : "root"
@@ -50,6 +57,7 @@ Looking for an opportunity to be challenged and learn every day !;)
 - REACT, 
 - BATCH/BASH
 
+## PERSONAL/ADDITIONAL INFO
 - 🔭 I’m currently working on My portofolio app and Allegro analytics tool with a subscription system.
 - 🌱 I’m currently learning Python, Django and Devops 
 - 🤔 I’m looking for help with Aws 
