@@ -9,19 +9,19 @@ Currenly I'm working as a Software Engineer in a automotive industry. On my dail
 
 
 ## SOME LIVE PROJECTS
-##### Apps are mainly deployed on a free dyno and might take few seconds before they run.
+##### HINT! These three aps are deployed on a free dyno and might take few seconds before they run.
 
-URL: https://filmwebscrapping.herokuapp.com/
+1) URL: https://filmwebscrapping.herokuapp.com/
 #### Description
 ##### App for movie fans, you can see upcoming premieres, rate movies and write your own review.
 ###### STACK: #PYTHON, #DJANGO, #POSTGRES, #CLOUDINARY, #BOOTSTRAP
 ###### CREDENTIALS = { "login": "admin", "pass" : "root1234" }
 
-URL: https://mateusz-website.herokuapp.com/
+2) URL: https://mateusz-website.herokuapp.com/
 #### Description
 ##### First version of my personal website/portofolio app.
 
-URL: https://mateuszblog.herokuapp.com/
+3) URL: https://mateuszblog.herokuapp.com/
 #### Description
 ##### My first app written with Flask and SQLALCHEMY in learning purpose.
 ###### STACK: #PYTHON, #FLASK, #POSTGRES, #SQLALCHEMY, #JAVASCRIPT, #BOOTSTRAP
