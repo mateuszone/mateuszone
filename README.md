@@ -8,7 +8,7 @@
 Currenly I'm working as a Software Engineer in a automotive industry. On my daily basis I develop Python library for internal usage and contribute to software written in Django DRF. Previously I used to write automation scripts in Python and batch/bash which was deployed on jenkins server.
 
 
-## SOME LIVE PROJECTS
+## LIVE PROJECTS
 ##### HINT! These three aps are deployed on a free dyno and might take few seconds before they run.
 
 ### 1.URL: https://filmwebscrapping.herokuapp.com/
